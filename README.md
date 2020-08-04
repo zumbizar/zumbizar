@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **zumbizar/zumbizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
+
+# Olá mundo, meu nome é Fernando Henrique 👋
+
+
+  Amo tecnologia e tudo que está envolvido nela :computer:
+  Busco traduzir as emoções dos clientes em projetos reais <br>
+  que facilitam, completam, valorizam as ideias e 
+  ambições com o carinho que elas merecem.
+ 
+<br/> :computer: &nbsp; Minha stack: ReactJS, JavaScript, React Native & TypeScript
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS & React
+<br/> 😄  &nbsp; Sobre mim: Curto tecnologias, games Overwatch, LoL e seriados no Netflix
+
+
+
+   #### ENTRAR EM CONTATO 💬:
+
+E-mail :mailbox: : fernandocontatojob@gmail.com
+
+LinkdIn: https://www.linkedin.com/in/fernando-henrique-6a4b091aa/ 
+
+Site massa :zap:: https://zumbizar.wordpress.com/ 
