@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 E-mail :mailbox: : fernandocontatojob@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/fernando-henrique-6a4b091aa/ 
+LinkedIn: https://www.linkedin.com/in/zumbizar/
 
 <!--Site massa :zap:: https://zumbizar.wordpress.com/ -->
