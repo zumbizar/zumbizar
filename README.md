@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   ambições com o carinho que elas merecem.
  
 <br/> :computer: &nbsp; Minha stack: ReactJS, JavaScript, React Native & TypeScript
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS & React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJS, React-Native & Typescript
 <br/> 😄  &nbsp; Sobre mim: Curto tecnologias, games Overwatch, LoL e seriados no Netflix
 
 
