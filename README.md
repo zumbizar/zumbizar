@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
 # Olá mundo, meu nome é Fernando Henrique 👋
