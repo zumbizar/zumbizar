@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-# Olá mundo, meu nome é Fernando Henrique 👋
+# Fernando Henrique :fire:
 
+[![Twitter Badge](https://img.shields.io/twitter/follow/zumbizar_?color=%234fffff&label=%40zumbizar_&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/zumbizar_)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zumbizar)
 
-  Amo tecnologia e tudo que está envolvido nela :computer:
-  Busco traduzir as emoções dos clientes em projetos reais <br>
-  que facilitam, completam, valorizam as ideias e 
-  ambições com o carinho que elas merecem.
+  Desenvolvedor Front-End! Com experiências em JavaScript, ReactJS, React Native, TypeScript, CSS3 & HTML5. Amo tecnologia e tudo que está envolvido nela 💜
  
-<br/> :computer: &nbsp; Minhas stack: ReactJS, React Native, NodeJS, JavaScript & TypeScript
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJS, React-Native, Javascript & Typescript
-<br/> 😄  &nbsp; Sobre mim: Curto tecnologias, games: Overwatch, Valorant e LoL, e seriados no Netflix 
+<br/> :computer: &nbsp; STACKS: ReactJS, React Native, NodeJS, JavaScript & TypeScript
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJS, React-Native, Javascript & Typescript
+<br/> ⚡ Fun fact: Faço lives todos os dias ás 20h [Live on Twitch](twitch.tv/zumbizar)
 
 
 
