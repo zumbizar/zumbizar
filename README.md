@@ -9,7 +9,7 @@
 <br>  :computer: &nbsp; STACKS: ReactJS, React Native, NodeJS, JavaScript & TypeScript
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJS, React-Native, Javascript & Typescript
 
-<br/>⚡  Fun fact: Faço lives todos os dias ás 20h [Live on Twitch](https://www.twitch.tv/zumbizar)
+<br/><!-- ⚡  Fun fact: Faço lives todos os dias ás 20h [Live on Twitch](https://www.twitch.tv/zumbizar) -->
 
 
 
